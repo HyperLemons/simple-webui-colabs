@@ -2,6 +2,7 @@
 Est. 5-8 minutes to load up everything (including 2nd launch for dropped in options) 
 
 As far as I can tell, this is faster than any other .ipynb for Google Colab, as it simply installs the webui as if your installing it on your pc with a few Python and Git commands.
+
 Set with anythingV3 model and vae, but can be changed to any by replacing the links.
  
  
