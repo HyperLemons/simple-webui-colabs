@@ -7,7 +7,7 @@ As far as I can tell, this is faster than any other .ipynb for Google Colab, as 
 
 Set with anythingV3 model and vae, but can be changed to any by replacing the links.
 
-# Changes from [Nolan Aatama](https://github.com/nolanaatama)'s original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab):
+# Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab):
      
 Added [autocomplete extensions](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) 
 
