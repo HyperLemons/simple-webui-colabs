@@ -13,6 +13,7 @@ Added [autocomplete extensions](https://github.com/DominikDoom/a1111-sd-webui-ta
 
 Added easy way to mount drive and replace option files to mitigate sessions destroying all resources after being ended
 
+Added many comments including explantions on changing/adding in more models and VAEs, as well as an explantion on how to set up the options replacement with your Google Drive (Only neccesary once!)
 
 # Need to fix/find fix for:
 
