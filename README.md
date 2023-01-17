@@ -11,7 +11,7 @@ Set with anythingV3 model and vae, but can be changed to any by replacing the li
      
 Added [autocomplete extensions](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) 
 
-Added easy way to mount drive and replace option files
+Added easy way to mount drive and replace option files to mitigate sessions destroying all resources after being ended
 
 
 # Need to fix/find fix for:
