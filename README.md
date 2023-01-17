@@ -11,7 +11,7 @@ Changes from Nolan Aatama's original sd-1click-colab (https://github.com/nolanaa
  
 Added autocomplete extensions (https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) 
 
-Added easy way to mount drive and drop in options
+Added easy way to mount drive and drop in option files
  
  
 Need to fix/find fix for:
