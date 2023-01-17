@@ -15,4 +15,5 @@ Added easy way to mount drive and drop in saved settings
  
  
 Need to fix/find fix for:
+
 Sampling steps won't change to dropped in options
