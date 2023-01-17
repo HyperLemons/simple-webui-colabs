@@ -5,7 +5,7 @@ Currently only anythingV3 model and vae.
 
 Changes from Nolan Aatama's original sd-1click-colab (https://github.com/nolanaatama/sd-1click-colab):
 
-Added autocomplete extensions (https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
+Added autocomplete extensions (https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) 
 Added easy way to mount drive and drop in saved settings
 
 Need to fix/find fix for:
