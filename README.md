@@ -1,5 +1,5 @@
 # fastest-stablediffusion-collab-webui
-Est. 10-12 minutes to load up everything (including 2nd launch after replacing with new options) 
+Est. 10-12 minutes to load up everything on a free Google Colab Account (including 2nd launch after replacing with new options) 
 Still need to time this, will update after    
 
 As far as I can tell, this is faster than any other .ipynb for Google Colab, as it simply installs the webui as if your installing it on your pc with a few Python and Git commands.
