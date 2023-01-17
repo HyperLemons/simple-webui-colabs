@@ -1,6 +1,6 @@
 # fastest-stablediffusion-collab-webui
 Est. 10-12 minutes on 2nd launch after replacing with new options using a free Google Colab Account
-Still need to time this, will update after    
+//Still need to time this, will update after//
 
 This is an edit/modification of someone's else script, I just made some modifications to make it easier to understand various things such as changing the model and vae, also adding in support for saving options (I don't believe any other of these colab scripts have this implemented at all atm...?)
 
