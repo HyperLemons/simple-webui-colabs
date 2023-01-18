@@ -4,7 +4,9 @@ Est. 10-12 minutes on 2nd launch after replacing with new options using a free G
 
 This is an edit/modification of someone's else script, I just made some modifications to make it easier to understand various things such as changing the model and vae, also adding in support for saving options (I don't believe any other of these colab scripts have this implemented at all atm...?)
 
-As far as I can tell, this is faster than any other .ipynb for Google Colab, as it simply installs the webui as if your installing it on your pc with a few Python and Git commands. IDFK why some of them are so long and complex with so many f*cking lines of python commands. Takes up way more time to install and launch.
+As far as I can tell, this is faster than any other .ipynb for Google Colab. The reason for this being it simply installs the webui as if your installing it on your pc with a few Python and Git commands.
+
+IDFK why some of them are so long and complex with so many f*cking lines of python commands. Unless there is something in them that is somehow superior to mine (still haven't found it!), they take up way more time to install and launch as well as being much more complicated to setup.
 
 The script is already setup with anythingV3 model and vae, but can be changed to any by replacing the links.
 
