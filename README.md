@@ -1,8 +1,12 @@
 # fastest-stablediffusion-collab-webui
 First cell startup time - aprox. 4:50 sec. (Web-UI fully loaded, no options from Google Drive loaded)
+
 Second cell startup time - aprox. 1:33.52 sec. (Web-UI fully loaded, options from Google Drive loaded)
 
+
 Estimated total startup time for most users on free account: ~ 5.8 - 7 minutes
+
+
 
 # About this script
 
