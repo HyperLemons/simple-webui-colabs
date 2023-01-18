@@ -1,8 +1,12 @@
 # fastest-stablediffusion-collab-webui
-Est. 10-12 minutes on 2nd launch after replacing with new options using a free Google Colab Account
-//Still need to time this, will update after//
+First cell startup time - aprox. 4:50 sec. (Web-UI fully loaded, no options from Google Drive loaded)
+Second cell startup time - aprox. 1:33.52 sec. (Web-UI fully loaded, options from Google Drive loaded)
 
-This is an edit/modification of someone's else script, I just made some modifications to make it easier to understand various things such as changing the model and vae, adding extensions and also adding in support for saving options (I don't believe any other of these colab scripts have this implemented at all atm...?)
+Estimated total startup time for most users on free account: ~ 5.8 - 7 minutes
+
+# About this script
+
+This is an edit/modification of someone's else script, I just made some modifications to make it easier to understand various things such as changing the model and vae, adding extensions and also adding in support for loading options (I don't believe any other of these colab scripts have this implemented at all atm...?)
 
 As far as I can tell, this is faster than any other .ipynb for Google Colab. The reason for this being it simply installs the webui as if your installing it on your pc with a few Python and Git commands.
 
