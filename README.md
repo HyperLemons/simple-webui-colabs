@@ -16,7 +16,7 @@ As far as I can tell, this is faster than any other .ipynb for Google Colab. The
 
 IDFK why some of them are so long and complex with so many f*cking lines of python commands. Unless there is something in them that is somehow superior to mine (still haven't found it!), they take up way more time to install and launch as well as being much more complicated to setup.
 
-The script is already setup with anythingV3 model and vae, but can be changed to any by replacing the links.
+The script is already setup with anythingV3 model and vae, but can be changed to any by replacing the links and file names.
 
 # Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab):
      
