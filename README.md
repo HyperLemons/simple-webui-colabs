@@ -21,3 +21,7 @@ Added many comments including explantions on changing/adding in more models and 
 # Need to fix/find fix for:
 
 Sampling steps won't change to Google Drive saved options when replacing with ui-options.json from your own PC
+
+# Need to add:
+
+Ability to add hypernetworks and embeddings with web links (the same way you can add models and vae's)
