@@ -12,7 +12,9 @@ The script is already setup with anythingV3 model and vae, but can be changed to
 
 # Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab):
      
-Added [autocomplete booru extensions](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) 
+Added [autocomplete booru extensions](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
+
+Added [booru2prompt](https://github.com/Malisius/booru2prompt)
 
 Added easy way to mount drive and replace option files to mitigate sessions destroying all resources after being ended
 
