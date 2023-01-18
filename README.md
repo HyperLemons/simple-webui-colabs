@@ -20,4 +20,4 @@ Added many comments including explantions on changing/adding in more models and 
 
 # Need to fix/find fix for:
 
-Sampling steps won't change to dropped in options
+Sampling steps won't change to Google Drive saved options
