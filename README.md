@@ -22,7 +22,7 @@ Added [booru2prompt extension](https://github.com/Malisius/booru2prompt)
 
 Added [booru tag autocompletion extension](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
 
-Added [Civitai browser extension, forked version by @Etherealxx](https://github.com/etherealxx/sd-civitai-browser)
+Added [Civitai browser extension, forked version by Etherealxx](https://github.com/etherealxx/sd-civitai-browser)
 
 Added easy way to mount drive and replace option files to mitigate sessions destroying all resources after being ended
 
