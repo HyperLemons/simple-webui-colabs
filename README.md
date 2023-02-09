@@ -10,7 +10,7 @@ Estimated total startup time for most users on free account: ~ 5.8 - 7 minutes
 
 # About this script
 
-This is an edit/modification of someone's else script, I just made some modifications to make it easier to understand various things such as changing the model and vae, adding extensions and also adding in support for loading options
+This is an edit/modification of someone's else script, I just made some modifications to make it easier to understand various things such as changing the model and vae, adding extensions and also adding in support for loading options.
 
 The script is already setup with anythingV3 model and vae, but can be changed to any by replacing the links and file names.
 
