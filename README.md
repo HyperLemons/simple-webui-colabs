@@ -32,8 +32,10 @@ Added many comments including explantions on changing/adding in more models and 
 
 Sampling steps won't change to Google Drive saved options when replacing with ui-options.json from your own PC
 
-# Need to add:
+# TODO:
 
 Comments for explaining how to add hypernetworks and embeddings with web links (the same way you can add models and vae's)
 
 Change model and vae to Anything 4.5
+
+Test on Kaggle
