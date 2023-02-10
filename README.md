@@ -35,3 +35,4 @@ Sampling steps won't change to Google Drive saved options when replacing with ui
 # Need to add:
 
 Comments for explaining how to add hypernetworks and embeddings with web links (the same way you can add models and vae's)
+Change model and vae to Anything 4.5
