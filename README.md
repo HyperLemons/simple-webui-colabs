@@ -16,7 +16,7 @@ The script is already setup with Anything-V4.5 model and Anything-V4.0 vae, but 
 
 **IMPORTANT** This only works with Google colab atm. I'm working on a Kaggle version currently, and will include it in this repository.
 
-# Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab):
+# Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab)
      
 Added [autocomplete booru extension](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
 
@@ -30,11 +30,11 @@ Added easy way to mount drive and replace option files to mitigate sessions dest
 
 Added many comments including explantions on changing/adding in more models and VAEs, adding extensions, as well as a super short tutorial on setting up the options replacement with your Google Drive (Only neccesary once!)
 
-# Need to fix/find fix for:
+# Need to fix/find fix for
 
 Sampling steps won't change to Google Drive saved options when replacing with ui-options.json from your own PC
 
-# TODO:
+# TODO
 
 Comments for explaining how to add hypernetworks and embeddings with web links (the same way you can add models and vae's)
 
