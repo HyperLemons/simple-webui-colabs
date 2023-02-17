@@ -14,7 +14,7 @@ This is an edit/modification of someone's else script, I just made some modifica
 
 The script is already setup with Anything-V4.5 model and Anything-V4.0 vae, but can be changed to any by replacing the links and file names.
 
-**IMPORTANT** This only works with Google colab atm. I'm working on a Kaggle version currently, and will include it in this repository.
+**IMPORTANT** This only works with Google colab atm. I'm working on a Kaggle version currently and will include it in this repository. Paperspace will come after if i'm able to claim a free GPU instance.
 
 # Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab)
      
@@ -39,5 +39,7 @@ Sampling steps won't change to Google Drive saved options when replacing with ui
 Comments for explaining how to add hypernetworks and embeddings with web links (the same way you can add models and vae's)
 
 Create Kaggle version (current Google colab version spits out some errors even after replacing file storage directorys to Kaggle's and removing any Google drive functions to take from another service)
+
+Create Paperspace version
 
 Retest current Google version to ensure stability
