@@ -1,10 +1,10 @@
 # simple-webui-colab
-First cell startup time - around 4:50 sec. (Web-UI fully loaded)
+(Using Google colab) First cell startup time - around 4:50 sec. (Web-UI fully loaded)
 
-Second cell startup time - aprox. 1:33.52 sec. (Web-UI restarted, Google Drive mounted and option files from Google Drive loaded)
+(Using Google colab) Second cell startup time - aprox. 1:33.52 sec. (Web-UI restarted, Google Drive mounted and option files from Google Drive loaded)
 
 
-Estimated total startup time for most users on free account: ~ 5.8 - 7 minutes
+Estimated total startup time for most users on free Google Colab account: ~ 5.8 - 7 minutes
 
 
 
