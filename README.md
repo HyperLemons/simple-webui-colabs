@@ -38,4 +38,4 @@ Sampling steps won't change to Google Drive saved options when replacing with ui
 
 Comments for explaining how to add hypernetworks and embeddings with web links (the same way you can add models and vae's)
 
-Test on Kaggle
+Create Kaggle version (current Google colab version spits out some errors even after replacing file storage directorys to Kaggle's and removing any Google drive functions to take from another service)
