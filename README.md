@@ -14,6 +14,8 @@ This is an edit/modification of someone's else script, I just made some modifica
 
 The script is already setup with Anything-V4.5 model and Anything-V4.0 vae, but can be changed to any by replacing the links and file names.
 
+**IMPORTANT** This only works with Google colab atm. I'm working on a Kaggle version currently, and will include it in this repository.
+
 # Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab):
      
 Added [autocomplete booru extension](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
