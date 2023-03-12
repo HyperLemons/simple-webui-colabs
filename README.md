@@ -1,7 +1,7 @@
 # simple-webui-colab
 
 
-Update (3/11/23): Testing Nolan Aatama's newesr sd-1click-colab for anything4.5 launched in just about 5 minutes (nice!) However they have added/changed most of the code. If if ever have the strength I may adjust to it, if there's anything crazy improved then I will add/change to it if I find out about it.
+Update (3/11/23): Testing Nolan Aatama's newest sd-1click-colab for [anything4.5](https://colab.research.google.com/github/nolanaatama/sd-1click-colab/blob/main/anythingv4.5.ipynb) launched in just about 5 minutes (nice!) However they have added/changed most of the code. If if ever have the strength I may adjust to it, if there's anything crazy improved then I will add/change to it if I find out about it.
 
 
 (Using Google colab) First cell startup time - around 4:50 sec. (Web-UI fully loaded)
