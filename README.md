@@ -1,8 +1,9 @@
 # simple-webui-colab
 
 
-Update (3/11/23): Testing Nolan Aatama's newest sd-1click-colab for [anything4.5](https://colab.research.google.com/github/nolanaatama/sd-1click-colab/blob/main/anythingv4.5.ipynb) launched in just about 5 minutes (nice!) However they have added/changed most of the code. If if ever have the strength I may adjust to it, if there's anything crazy improved then I will add/change to it if I find out about it.
+**Update (3/11/23):** Testing Nolan Aatama's newest sd-1click-colab for [anything4.5](https://colab.research.google.com/github/nolanaatama/sd-1click-colab/blob/main/anythingv4.5.ipynb) launched in just about 5 minutes (nice!) However they have added/changed most of the code. If if ever have the strength I may adjust to it, if there's anything crazy improved then I will add/change to it if I find out about it.
 
+**Update (4/18/23): Finally got around to getting a Kaggle script. Kaggle gives you a bit more freedom than Google for free, especially with it's 30 free GPU hours per week (that's around 4.28 hours of usage per day!). It's really just camenduru's script with a fix for the image browser to work with old gradio versions. Camenduru hasn't updated the script in a bit and I haven't figured out how to update Gradio without breaking other stuff, so, yeah. Also included a cell to easily launch the web-ui after installing. Will add more later if i'm up for it.
 
 (Using Google colab) First cell startup time - around 4:50 sec. (Web-UI fully loaded)
 
@@ -19,9 +20,11 @@ This is an edit/modification of someone's else script, I just made some modifica
 
 The script is already setup with Anything-V4.5 model and Anything-V4.0 vae, but can be changed to any by replacing the links and file names.
 
-**IMPORTANT** This only works with Google colab atm. I'm working on a Kaggle version currently and will include it in this repository. Paperspace will come after if i'm able to claim a free GPU instance.
+**IMPORTANT** Only Google Colab and Kaggle scripts currently. Will update with Paperspace script if i'm ever able to claim a free GPU or decide to subscribe for some reason (highly unlikely).
 
-# Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab)
+
+
+# Google Colab Script: Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) (currently edited from a outdated version)
      
 Added [autocomplete booru extension](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
 
