@@ -63,7 +63,9 @@ As iterated from the *About this script* section of this README.md, I do not own
 I am not a python developer, I am not a C++ developer, I just try to configure things to the extent of my knowledge and best ability for myself and anyone else who would like a better pre-configured expirence with little to no hassle. Any changes I make to the original scripts/colabs by thier original creators are only changes that ANYONE can do, with absolutely 0 coding knowledge.
 
 **All respective credits go to _(will update as needed)_:**
+
 [Nolan Aatama](https://github.com/nolanaatama) for their immense sd-1click-colab scripts/colabs and amazing resource of tutorials on their (Youtube)[https://www.youtube.com/@nolanaatama].
+
 [camenduru](https://linktr.ee/camenduru) for their work on (will add later)
 and all developers of the extensions I added, the people who created the models I added, the people behind Civitai, and anyone else I may have forgot to mention.
 
