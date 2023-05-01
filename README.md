@@ -18,7 +18,7 @@ Estimated total startup time for most users on free Google Colab account: ~ 5.8 
 
 # About this script
 
-This is an edit/modification of someone's else script, I just made some modifications to make it easier to understand various things such as changing the model and vae, adding extensions and also adding in support for loading options.
+These are just edits/modifications of people's script, I just made some modifications to make it easier to understand various things such as changing the model and vae, adding extensions and also adding in support for loading options (option loading limited to Google Drive currently).
 
 The script is already setup with Anything-V4.5 model and Anything-V4.0 vae, but can be changed to any by replacing the links and file names.
 
@@ -55,3 +55,16 @@ Create Paperspace version
 Retest current Google version to ensure stability after updating everything
 
 Create [mobile version](https://github.com/nolanaatama/sd-1click-colab-mobile)? 
+
+# Disclaimer
+
+As iterated from the *About this script* section of this README.md, I do not own any of the original code made for these scripts/colabs nor did I contribute to the original scripts.
+
+I am not a python developer, I am not a C++ developer, I just try to configure things to the extent of my knowledge and best ability for myself and anyone else who would like a better pre-configured expirence with little to no hassle. Any changes I make to the original scripts/colabs by thier original creators are only changes that ANYONE can do, with absolutely 0 coding knowledge.
+
+**All respective credits go to _(will update as needed)_:**
+[Nolan Aatama](https://github.com/nolanaatama) for their immense sd-1click-colab scripts/colabs and amazing resource of tutorials on their (Youtube)[https://www.youtube.com/@nolanaatama].
+[camenduru](https://linktr.ee/camenduru) for their work on (will add later)
+and all developers of the extensions I added, the people who created the models I added, the people behind Civitai, and anyone else I may have forgot to mention.
+
+**They are all the real people to spread your thanks for these scripts, as it would not be possible without their work.**
