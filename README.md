@@ -69,4 +69,4 @@ I am not a python developer, I am not a C++ developer, I just try to configure t
 [camenduru](https://linktr.ee/camenduru) for their work on (will add later)
 and all developers of the extensions I added, the people who created the models I added, the people behind Civitai, and anyone else I may have forgot to mention.
 
-**They are all the real people to spread your thanks for these scripts, as it would not be possible without their work.**
+**They are all the real people to spread your thanks for these scripts/colabs, as it would not be possible without their work.**
