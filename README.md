@@ -52,4 +52,6 @@ Create Kaggle version (current Google colab version spits out some errors even a
 
 Create Paperspace version
 
-Retest current Google version to ensure stability
+Retest current Google version to ensure stability after updating everything
+
+Create [mobile version](https://github.com/nolanaatama/sd-1click-colab-mobile)? 
