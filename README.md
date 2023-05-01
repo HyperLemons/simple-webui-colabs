@@ -26,7 +26,7 @@ The script is already setup with Anything-V4.5 model and Anything-V4.0 vae, but 
 
 
 
-# Google Colab Script: Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) (currently edited from a outdated version) (still need to update to latest version/upstream)
+# Google Colab Script: Changes from [Nolan Aatama's](https://github.com/nolanaatama) original [sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) (currently edited from a outdated version, still need to update to latest version/upstream)
      
 Added [autocomplete booru extension](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
 
