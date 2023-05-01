@@ -7,12 +7,12 @@
 
 **Update (4/18/23):** Finally got around to getting a Kaggle script. Kaggle gives you a bit more freedom than Google for free, especially with it's 30 free GPU hours per week (that's around 4.28 hours of usage per day!). **AND YOU GET PERSISTANT STORAGE (15 GB)!!!!!** It's really just camenduru's script with a fix for the image browser to work with old gradio versions. Camenduru hasn't updated the script in a bit and I haven't figured out how to update Gradio without breaking other stuff, so, yeah. Also included a cell to easily launch the web-ui after installing. Will add more later if i'm up for it.
 
-(Using Google colab) First cell startup time - around 4:50 sec. (Web-UI fully loaded) (using current Google script that is outdated from upstream)
+(Using Google colab) First cell startup time - around 4:50 sec. (Web-UI fully loaded) *(using current Google script that is outdated from upstream)*
 
-(Using Google colab) Second cell startup time - aprox. 1:33.52 sec. (Web-UI restarted, Google Drive mounted and option files from Google Drive loaded) (using current Google script that is outdated from upstream)
+(Using Google colab) Second cell startup time - aprox. 1:33.52 sec. (Web-UI restarted, Google Drive mounted and option files from Google Drive loaded) *(using current Google script that is outdated from upstream)*
 
 
-Estimated total startup time for most users on free Google Colab account: ~ 5.8 - 7 minutes (using current Google script that is outdated from upstream)
+Estimated total startup time for most users on free Google Colab account: ~ 5.8 - 7 minutes *(using current Google script that is outdated from upstream)*
 
 
 
