@@ -1,13 +1,12 @@
 # simple-webui-colabs
 
-
-**Update (7/28/23):** I am now in possession of a slightly more powerful laptop, if I keep this long enough and see that installing a1111 locally gives enough speed and preformance for generations in a reasonable size, I will archive this repository. If this doesn't happen to be the case, I will hopefully revisit this script eventually, but I hold no promises.
-
 **Update (3/11/23):** Testing Nolan Aatama's newest sd-1click-colab for [anything4.5](https://colab.research.google.com/github/nolanaatama/sd-1click-colab/blob/main/anythingv4.5.ipynb) launched in just about 5 minutes (nice!) However they have added/changed most of the code. If if ever have the strength I may adjust to it, if there's anything crazy improved then I will add/change to it if I find out about it.
 
 **Update (4/18/23):** Testing Nolan's latest script took around 9 minutes to install and launch a public URL for the webui (I acceidenlty stopped the time midway so I don't have an exact time) Might try update to Nolan's latest changes, it looks a lot more feasable now.
 
 **Update (4/18/23):** Finally got around to getting a Kaggle script. Kaggle gives you a bit more freedom than Google for free, especially with it's 30 free GPU hours per week (that's around 4.28 hours of usage per day!). **AND YOU GET PERSISTANT STORAGE (15 GB)!!!!!** It's really just camenduru's script with a fix for the image browser to work with old gradio versions. Camenduru hasn't updated the script in a bit and I haven't figured out how to update Gradio without breaking other stuff, so, yeah. Also included a cell to easily launch the web-ui after installing. Will add more later if i'm up for it.
+
+**Update (7/28/23):** I am now in possession of a slightly more powerful laptop, if I keep this long enough and see that installing a1111 locally gives enough speed and preformance for generations in a reasonable size, I will archive this repository. If this doesn't happen to be the case, I will hopefully revisit this script eventually, but I hold no promises.
 
 (Using Google colab) First cell startup time - around 4:50 sec. (Web-UI fully loaded) *(using current Google script that is outdated from upstream)*
 
