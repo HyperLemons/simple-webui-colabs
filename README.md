@@ -6,7 +6,7 @@
 
 **Update (4/18/23):** Finally got around to getting a Kaggle script. Kaggle gives you a bit more freedom than Google for free, especially with it's 30 free GPU hours per week (that's around 4.28 hours of usage per day!). **AND YOU GET PERSISTANT STORAGE (15 GB)!!!!!** It's really just camenduru's script with a fix for the image browser to work with old gradio versions. Camenduru hasn't updated the script in a bit and I haven't figured out how to update Gradio without breaking other stuff, so, yeah. Also included a cell to easily launch the web-ui after installing. Will add more later if i'm up for it.
 
-**Update (7/28/23):** I am now in possession of a slightly more powerful laptop, if I keep this long enough and see that installing a1111 locally gives enough speed and preformance for generations in a reasonable size, I will archive this repository. If this doesn't happen to be the case, I will hopefully revisit this script eventually, but I hold no promises.
+**Update (7/28/23):** I am now in possession of a slightly more powerful laptop, if I keep this laptop for long enough and see that installing a1111 locally gives enough speed and preformance for generations in a reasonable size, I will archive this repository. If this doesn't happen to be the case, I will hopefully revisit this script eventually, but I hold no promises.
 
 (Using Google colab) First cell startup time - around 4:50 sec. (Web-UI fully loaded) *(using current Google script that is outdated from upstream)*
 
